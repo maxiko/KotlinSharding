@@ -1,5 +1,8 @@
 package io.maxiko.kotlinsharding.configuration
 
+/**
+ * Контекст в котором хранится текущий шард
+ */
 class DBContextHolder {
 
     companion object {
